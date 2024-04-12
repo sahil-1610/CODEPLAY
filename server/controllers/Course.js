@@ -261,7 +261,7 @@ exports.getCourseDetails = async (req, res) => {
       })
     }
 
-  
+
 
     let totalDurationInSeconds = 0
     courseDetails.courseContent.forEach((content) => {
@@ -324,7 +324,7 @@ exports.getFullCourseDetails = async (req, res) => {
       })
     }
 
- 
+
 
     let totalDurationInSeconds = 0
     courseDetails.courseContent.forEach((content) => {
