@@ -10,7 +10,7 @@
 	"keywords": [
 		"codeplay-backend"
 	],
-	"author": "Pranjal Mishra",
+	"author": "SAHIL TIWARI",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.0",
